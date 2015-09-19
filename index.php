@@ -1,4 +1,5 @@
 qwe
 {rty}
-<?php 
+<?php
+    echo "<div> </div>";
 ?>
